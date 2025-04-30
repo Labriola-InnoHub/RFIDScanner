@@ -1,0 +1,10 @@
+Online resources for setting up a Raspberry Pi as a RFID scanner:
+
+
+https://raspberrytips.com/use-rfid-tags-raspberry-pi/
+- Good overview of the hardware and software to interface an RFID scanner
+
+https://pimylifeup.com/raspberry-pi-rfid-rc522/
+- Good diagrams for hardware and general setup
+
+**When looking up additional documentation or using the stuff above, check what kind of RFID scanner we're using.

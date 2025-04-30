@@ -1,0 +1,16 @@
+Recommended database: MariaDB
+- Open-source, free, and LOTS of documentation
+- Smaller footprint than other traditional SQL databases
+- Very similar to MySQL
+
+
+
+https://mariadb.org/documentation/
+- Official MariaDB documentation
+
+
+https://thelinuxcode.com/install-setup-mariadb-server-raspberry-pi/
+- Walkthrough of how to setup up Maria and create tables via CLI
+
+
+**As of now, we're assuming that the data will be loaded into the database from a CSV file. Make sure that we have a program file to do this; we may need to utilize the file on multiple Pis.
