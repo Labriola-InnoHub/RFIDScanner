@@ -1,0 +1,13 @@
+I am not sure if we'll be going to route of hosting our own website or not; if we do, here's stuff for hosting on a Pi and interfacing with other applications.
+**I would recommend using Apache
+**Many of these resources will specify hardware requirements; I believe we are using Raspberry Pi 5s, which meet the criteria
+
+
+https://raspberrytips.com/host-website-raspberry-pi/
+- Good overview of basic setup on a Pi and the applications needed
+
+https://blog.rdpcore.com/how-to-host-a-website-on-a-raspberry-pi-a-diy-guide
+- Similar to above source, goes into a couple extra things
+
+https://httpd.apache.org/docs/current/
+- Documentation on Apache
